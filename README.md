@@ -1,2 +1,2 @@
-# v7.0.1
+# WCPS
 CMS WebCodePortalSystem version 7.0.1
